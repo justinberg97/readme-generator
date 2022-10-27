@@ -60,7 +60,7 @@ function writeToFile(fileName, data) {}
 // TODO: Create a function to initialize app
 const init = () => {
     promptUser()
-      .then((answers) => writeFile('./dist/readme.md', generateMarkdown(answers)))
+      .then((answers) => writeFile('./readme.md', generateMarkdown(answers)))
       .then(() => console.log('Successfully wrote to readme.md'))
       .catch((err) => console.error(err));
   };
