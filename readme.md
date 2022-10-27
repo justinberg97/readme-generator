@@ -31,7 +31,7 @@
   justinmberg97@gmail.com
 
   ## Portfolio
-  www.github.com/justinberg87
+  www.github.com/justinberg97
  
   ## Licence 
    this project is licenced under the MIT licence
