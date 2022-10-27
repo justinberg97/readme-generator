@@ -49,12 +49,12 @@ const promptUser = () => {
       {
         type: "input",
         name: "questions",
-        message: "What is your email?",
+        message: "If a reviewer needs to ask additonal questions, please provide your email address?",
       },
       {
         type: "input",
         name: "portfolio",
-        message: "what is your github username"
+        message: "what is the url of your github username?"
       }
     ]);
   };
